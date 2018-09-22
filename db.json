@@ -1,5 +1,4 @@
 [
-  {"name":"A", "dob":"13/12/1995","address":"reqw eqr er eradsf df", "condition":"Fever", "phone":"798165444", "patientType":"Out"},
-  {"name":"B", "dob":"13/12/1995","address":"reqw eqr er eradsf df", "condition":"Head Ache", "phone":"798165444", "patientType":"In"},
-  
+  {"name":"A", "dob":"13/12/1995","address":"reqw eqr er eradsf df", "condition":"Fever"},
+  {"name":"B", "dob":"13/12/1995","address":"reqw eqr er eradsf df", "condition":"Head Ache"}
 ]
